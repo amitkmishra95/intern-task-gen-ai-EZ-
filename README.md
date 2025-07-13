@@ -1,4 +1,8 @@
 # intern-task-gen-ai-EZ-
+
+[![Watch the demo](https://youtu.be/vkUQUKGufUk)](https://youtu.be/vkUQUKGufUk)
+
+
 # 🧠 GenAI Assistant
 
 An intelligent document assistant that accepts uploaded PDF or TXT files, generates concise summaries, answers user queries based on document context, and challenges the user with logic-based questions using LLaMA and FAISS.
